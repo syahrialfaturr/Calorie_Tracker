@@ -30,6 +30,7 @@ public class CalorieTracker {
             choice = input.nextInt();
             input.nextLine();
 
+
             switch (choice) {
                 case 1:
                     System.out.print("Masukkan nama makanan: ");
