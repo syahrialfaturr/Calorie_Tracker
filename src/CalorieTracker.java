@@ -1,14 +1,5 @@
 import java.util.*;
 
-/**
- * Program Calorie Tracker
- * Modul 3 - Codelab 1 dan 2
- *
- * Program ini digunakan untuk mencatat makanan dan jumlah kalori yang dikonsumsi.
- * Sudah memiliki daftar makanan default.
- * Jika pengguna memasukkan makanan yang sudah ada, kalori otomatis ditambahkan.
- * Jika belum ada, pengguna bisa menambahkan makanan baru beserta kalorinya.
- */
 public class CalorieTracker {
 
     public static void main(String[] args) {
