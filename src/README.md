@@ -37,7 +37,7 @@ Pilih menu (1-4): 1
 
 Nama makanan: Seblak
 
-✅ Makanan “Seblak” ditambahkan (400 kalori)
+Makanan “Seblak” ditambahkan (400 kalori)
 
 Pilih menu (1-4): 2
 
