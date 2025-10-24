@@ -1,3 +1,4 @@
+// Program penghitung kalori (Codelab1 Modul 3)
 import java.util.*;
 
 public class CalorieTracker {
